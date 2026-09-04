@@ -7,7 +7,7 @@ about:
   head: 540b377
   archived: false
   latestVersion: v3.3.16
-  collectedAt: 2026-09-04T19:29:00Z
+  collectedAt: 2026-09-04T21:02:51Z
 timeline:
   created: 2012-12-11
   lastCommit: 2026-08-05
@@ -83,5 +83,43 @@ total:
   openIssue: 7
   commit: 738
 ---
+path: /home/runner/.x-repo/github.com/rrthomas/psutils
+collectedAt: 2026-09-04T21:02:52Z
+loc:
+  Python:
+    code: 3151
+    comments: 126
+    blanks: 439
+    files: 31
+  Toml:
+    code: 80
+    comments: 0
+    blanks: 9
+    files: 1
+  Makefile:
+    code: 22
+    comments: 4
+    blanks: 7
+    files: 1
+  Autoconf:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 47
+    blanks: 25
+    files: 1
+  Text:
+    code: 0
+    comments: 148
+    blanks: 20
+    files: 95
+total:
+  code: 3266
+  comments: 325
+  blanks: 500
+  files: 130
 ---
 
