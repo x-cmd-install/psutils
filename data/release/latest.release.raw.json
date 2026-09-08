@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 55328,
       "digest": "sha256:de0289f2eac5966c2481a02cfa6eed0dc0f8e67115356eb44dbab429610f5970",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-07T13:15:44Z",
       "updated_at": "2026-09-07T13:15:44Z",
       "browser_download_url": "https://github.com/rrthomas/psutils/releases/download/v3.3.17/psutils-3.3.17-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1255066,
       "digest": "sha256:3ff76cc9f9fb535ec553d1591de56d6dbaa0d9f4df86778f6a49731ebd764cdf",
-      "download_count": 6,
+      "download_count": 16,
       "created_at": "2026-09-07T13:15:44Z",
       "updated_at": "2026-09-07T13:15:44Z",
       "browser_download_url": "https://github.com/rrthomas/psutils/releases/download/v3.3.17/psutils-3.3.17.tar.gz"
