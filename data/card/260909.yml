@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.3.17"
   latestRelease: "v3.3.17"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:31:20Z
+  collectedAt: 2026-09-09T19:53:21Z
 timeline:
   created: 2012-12-11
   lastCommit: 2026-09-07
@@ -86,7 +86,7 @@ total:
   commit: 741
 ---
 path: /home/runner/.x-repo/github.com/rrthomas/psutils
-collectedAt: 2026-09-09T05:31:21Z
+collectedAt: 2026-09-09T19:53:22Z
 loc:
   Python:
     code: 3151
