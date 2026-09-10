@@ -4,13 +4,25 @@
 
 Utilities for manipulating PostScript documents
 
-![psutils](https://repo.x-cmd.io/psutils.svg)
+![psutils](https://repo.x-cmd.io/psutils.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install psutils
 ```
+
+## 代码洞察
+
+合计: **3,266** 行代码（覆盖前 5 种语言、共 **35** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 3,151 | 126 | 439 | 31 |
+| Toml | 80 | 0 | 9 | 1 |
+| Makefile | 22 | 4 | 7 | 1 |
+| Autoconf | 13 | 0 | 0 | 1 |
+| Markdown | 0 | 47 | 25 | 1 |
 
 ## 源代码
 
@@ -22,7 +34,6 @@ x install psutils
 - **最新版本**: `v3.3.17` (2026-09-07)
 - **最近提交**: 2026-09-07
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-09-07T13:15:44Z
 
 ## 流行度
 
@@ -37,20 +48,18 @@ x install psutils
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 0 | 0 | 1 | 0 | 2 |
+| last60d | 2026-07-12 | 2 | 0 | 0 | 2 | 0 | 9 |
 | 90d | 2026-06-12 | 2 | 0 | 0 | 2 | 0 | 12 |
+| last180d | 2026-03-14 | 3 | 0 | 0 | 2 | 0 | 17 |
 | 360d | 2025-09-15 | 3 | 0 | 0 | 3 | 2 | 19 |
+| last720d | 2024-09-20 | 12 | 3 | 0 | 13 | 4 | 71 |
 
-## 代码规模
+## Release 资产
 
-合计: **3,266** 行代码（覆盖前 5 种语言、共 **35** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 3,151 | 126 | 439 | 31 |
-| Toml | 80 | 0 | 9 | 1 |
-| Makefile | 22 | 4 | 7 | 1 |
-| Autoconf | 13 | 0 | 0 | 1 |
-| Markdown | 0 | 47 | 25 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [psutils-3.3.17-py3-none-any.whl](https://github.com/rrthomas/psutils/releases/download/v3.3.17/psutils-3.3.17-py3-none-any.whl) | 54.0 KiB | `other` |
+| [psutils-3.3.17.tar.gz](https://github.com/rrthomas/psutils/releases/download/v3.3.17/psutils-3.3.17.tar.gz) | 1.2 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -61,4 +70,4 @@ psutils 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:34:27Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:55:44Z._
