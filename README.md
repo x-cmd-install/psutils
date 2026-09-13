@@ -47,12 +47,12 @@ Total: **3,266** lines of code across **35** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 0 | 0 | 1 | 0 | 2 |
-| last60d | 2026-07-13 | 2 | 0 | 0 | 2 | 0 | 9 |
-| 90d | 2026-06-13 | 2 | 0 | 0 | 2 | 0 | 12 |
-| last180d | 2026-03-15 | 3 | 0 | 0 | 2 | 0 | 17 |
-| 360d | 2025-09-16 | 3 | 0 | 0 | 3 | 2 | 19 |
-| last720d | 2024-09-21 | 12 | 3 | 0 | 13 | 4 | 71 |
+| 30d | 2026-08-14 | 1 | 0 | 0 | 1 | 0 | 2 |
+| last60d | 2026-07-15 | 2 | 0 | 0 | 2 | 0 | 9 |
+| 90d | 2026-06-15 | 2 | 0 | 0 | 2 | 0 | 12 |
+| last180d | 2026-03-17 | 3 | 0 | 0 | 2 | 0 | 17 |
+| 360d | 2025-09-18 | 3 | 0 | 0 | 3 | 2 | 19 |
+| last720d | 2024-09-23 | 12 | 3 | 0 | 13 | 4 | 71 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for psutils lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:24:09Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:38:48Z._
