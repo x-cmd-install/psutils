@@ -37,7 +37,7 @@ Total: **3,266** lines of code across **35** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 56 · **Forks**: 11 · **Open issues**: 80 · **Contributors**: 7
+- **Stars**: 56 · **Forks**: 12 · **Open issues**: 80 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **3,266** lines of code across **35** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 0 | 0 | 1 | 0 | 2 |
-| last60d | 2026-07-23 | 2 | 0 | 0 | 1 | 0 | 9 |
-| 90d | 2026-06-23 | 2 | 0 | 0 | 2 | 0 | 12 |
-| last180d | 2026-03-25 | 3 | 0 | 0 | 2 | 0 | 17 |
-| 360d | 2025-09-26 | 3 | 0 | 0 | 3 | 2 | 19 |
-| last720d | 2024-10-01 | 12 | 3 | 0 | 13 | 4 | 71 |
+| 30d | 2026-08-23 | 1 | 0 | 0 | 1 | 0 | 2 |
+| last60d | 2026-07-24 | 2 | 0 | 0 | 1 | 0 | 9 |
+| 90d | 2026-06-24 | 2 | 0 | 0 | 2 | 0 | 12 |
+| last180d | 2026-03-26 | 3 | 0 | 0 | 2 | 0 | 17 |
+| 360d | 2025-09-27 | 3 | 0 | 0 | 3 | 2 | 19 |
+| last720d | 2024-10-02 | 12 | 3 | 0 | 13 | 4 | 71 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for psutils lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:45:59Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:55:05Z._
